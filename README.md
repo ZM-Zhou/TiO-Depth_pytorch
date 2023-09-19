@@ -23,8 +23,8 @@ conda activate pytorch170cu11
 |----------|----------|--------|-------|----|-------|--|
 |TiO-Depth_384_bs8[Baidu](https://pan.baidu.com/s/1rNZvLDcTSGq5XOBFHZRTjg)/[Google](https://drive.google.com/file/d/1XMFA9wQzikjKJ-dZFiPM0pKRr_yB-7E8/view?usp=sharing)|K|0.085|0.544|3.919|0.169|0.911|
 |TiO-Depth_384_bs8 (Bino.)[Baidu](https://pan.baidu.com/s/1rNZvLDcTSGq5XOBFHZRTjg)/[Google](https://drive.google.com/file/d/1XMFA9wQzikjKJ-dZFiPM0pKRr_yB-7E8/view?usp=sharing)|K|0.063|0.523|3.611|0.153|0.943|
-|TiO-Depth_384_bs8_kittifull [Baidu](https://pan.baidu.com/s/1NJUA10rLDFJcS2StjbqRrw)/[Google](https://drive.google.com/file/d/1ylElx3LMm70Dmq0t-InwqU60_QcRFAeu/view?usp=sharing)|K||0.075|0.458|3.717|0.130|0.925|
-|TiO-Depth_384_bs8_kittifull (Bino.) [Baidu](https://pan.baidu.com/s/1NJUA10rLDFJcS2StjbqRrw)/[Google](https://drive.google.com/file/d/1ylElx3LMm70Dmq0t-InwqU60_QcRFAeu/view?usp=sharing)|K||0.050|0.434|3.239|0.104|0.967|
+|TiO-Depth_384_bs8_kittifull [Baidu](https://pan.baidu.com/s/1NJUA10rLDFJcS2StjbqRrw)/[Google](https://drive.google.com/file/d/1ylElx3LMm70Dmq0t-InwqU60_QcRFAeu/view?usp=sharing)|K|0.075|0.458|3.717|0.130|0.925|
+|TiO-Depth_384_bs8_kittifull (Bino.) [Baidu](https://pan.baidu.com/s/1NJUA10rLDFJcS2StjbqRrw)/[Google](https://drive.google.com/file/d/1ylElx3LMm70Dmq0t-InwqU60_QcRFAeu/view?usp=sharing)|K|0.050|0.434|3.239|0.104|0.967|
 
 * **code for all the download links of Baidu is `smde`**
 
@@ -173,18 +173,4 @@ Plese firstly download the pretrained Swin-trainsformer (Tiny Size) in their [of
 [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)  
 [Monodepth2](https://github.com/nianticlabs/monodepth2)  
 [FAL-Net](https://github.com/JuanLuisGonzalez/FAL_net)  
-[DepthHints](https://github.com/nianticlabs/depth-hints)  
-[DIFFNet](https://github.com/brandleyzhou/DIFFNet)  
-[EPCDepth](https://github.com/prstrive/EPCDepth)  
-[EdgeOfDepth](https://github.com/TWJianNuo/EdgeDepth-Release)  
-[PackNet](https://github.com/TRI-ML/packnet-sfm)  
-[P2Net](https://github.com/svip-lab/Indoor-SfMLearner)  
-[HRDepth](https://github.com/shawLyu/HR-Depth)  
-[FSRE-Depth](https://github.com/hyBlue/FSRE-Depth)  
-[ManyDepth](https://github.com/nianticlabs/manydepth)  
-[R-MSFM](https://github.com/jsczzzk/R-MSFM)
-[ApolloScape Dataset](http://apolloscape.auto/index.html)  
 [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/index.php)  
-[NYUv2 Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)  
-[Make3D Dataset](http://make3d.cs.cornell.edu/data.html#make3d)  
-[Cityscapes Dataset](https://www.cityscapes-dataset.com)
